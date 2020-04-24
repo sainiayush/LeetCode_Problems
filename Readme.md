@@ -1,11 +1,11 @@
-### LeetCode problems solution in python
+## LeetCode problems solution in python
 * The problems are categorized according to tags such as Dynamic Programming, Trees, Binary Search, Miscellaneous, Graph, etc. 
-* ##### Each folder contains separate readme which includes link to the problem and the solution. 
+* #### Each folder contains separate readme which includes link to the problem and the solution. 
 
 
 > I have included some basic theory about some data structures and algorithms.
 
-### Greedy Algorithms
+## Greedy Algorithms
 
 * Make a greedy choice and reduction to sub-problem.
 * Sub-problem is problem with same king but having fewer parameters.
@@ -19,7 +19,7 @@
 > Greedy Problems can be faster after sorting.
 
 
-#### Divide and Conquer Strategy
+## Divide and Conquer Strategy
 * We have a problem. We divide that problem into sub-problems. This subproblems are similar type as original problem.
 * We recursively solve each sub-problem using same strategy.
 * Combine the results.
@@ -27,7 +27,9 @@
     * Binary Search
     * Merge Sort
     * Quick Sort    
-### Dynamic Programming
+    
+    
+## Dynamic Programming
 * Break problem in to sub-problem.
 * Find optimal solution sub-problem.
 * Store the results of sub-problem .
