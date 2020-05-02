@@ -1,2 +1,4 @@
 .idea/
 .idea/LeetCode_Problems.iml
+*.xlsx
+problems.xlsx

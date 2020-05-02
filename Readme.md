@@ -2,51 +2,50 @@
 * The problems are categorized according to tags such as Dynamic Programming, Trees, Binary Search, Miscellaneous, Graph, etc. 
 * #### Each folder contains separate readme which includes link to the problem and the solution. 
 
+## 
 
-> I have included some basic theory about some data structures and algorithms.
+#### Array
+|  Number | Problem |   Solution |
+| --- | --- | --- |
+|  55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [solution](/Array/jump_game.py)|
+|  189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [solution](/Array/Rotate_Array.py)|
+|  238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](/Array/Product_of_Array_Except_Self.py)|
+|  349 | [Intersection of Two arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [solution](/Array/intersection_of_two_arrays.py)|
+|  1351 | [Count negative numbers in sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [solution](/Array/count_negative_numbers_in_sorted_matrix.py)|
 
-## Greedy Algorithms
+#### Binary Search
+|  Number | Problem |   Solution |
+| --- | --- | --- |
+|  278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](/Dynamic%20Programming/first_bad_version.py)|
 
-* Make a greedy choice and reduction to sub-problem.
-* Sub-problem is problem with same king but having fewer parameters.
-* We have to make sure our greedy choice is a safe move.
-    * ##### Examples of safe moves:
-        * Put max digit first
-        * Find first occurence of first character
-        * Cover leftmost point
-        * Use item with max value per unit of weight
+#### Design
+|  Number | Problem |   Solution |
+| --- | --- | --- |
+|  155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [solution](/Design/min_stack.py)|
 
-> Greedy Problems can be faster after sorting.
+#### Dynamic Programming
+|  Number | Problem |   Solution |
+| --- | --- | --- |
+|  121 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [solution](/Dynamic%20Programming/Best_time_to_buy_and_sell_stock.py)|
+|  322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [solution](/Dynamic%20Programming/Coin_Change.py)|
+|  1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [solution](/Dynamic%20Programming/Longest_Common_Subsequence.py)|
 
+#### Hash Table
+|  Number | Problem |   Solution |
+| --- | --- | --- |
+|  1 | [Two sum](https://leetcode.com/problems/two-sum/) | [solution](/Hash%20Table/Two_sum.py)|
+|  3 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](/Hash%20Table/Longest_substring_without_repeating_characters.py)|
+|  242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [solution](/Hash%20Table/Valid_Anagram.py)|
+|  560 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | [solution](/Hash%20Table/Subarray_sum_equals_k.py)|
+|  1365 | [How many numbers smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [solution](/Hash%20Table/how_many_numbers_smaller_than_the_current_number.py)|
 
-## Divide and Conquer Strategy
-* We have a problem. We divide that problem into sub-problems. This subproblems are similar type as original problem.
-* We recursively solve each sub-problem using same strategy.
-* Combine the results.
-* ##### Standard algorithms: 
-    * Binary Search
-    * Merge Sort
-    * Quick Sort    
-    
-    
-## Dynamic Programming
-* Break problem in to sub-problem.
-* Find optimal solution sub-problem.
-* Store the results of sub-problem .
-* Reuse the stored results to reduce the calculation.
-* Final Output.
-* Two methods for solving DP problems.
-    * ##### Memoization (Top Down)
-        * It is similar to recursive way of solving a problem.
-        * We initialize lookup array.
-        * Whenever we need solution to sub-problem, we look into lookup array.
-        * If solution present in lookup array, return the value otherwise we calculate the value and put in the lookup array.
-    * ##### Tabulation (Bottom Up)
-        * Build table from bottom up fashion and return the last value from the table.
+#### Math
+|  Number | Problem |   Solution |
+| --- | --- | --- |
+|  9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [solution](/Hash%20Table/palindrome.py)|
 
+### String
 
-* DP applicable to problems having properties :
-    * ##### Overlapping sub-problems
-    * ##### Optimal substructure
-
-        
+|  Number | Problem |   Solution |
+| --- | --- | --- |
+|  20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [solution](/String/valid-parentheses.py)|
