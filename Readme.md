@@ -39,13 +39,19 @@
 |  560 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | [solution](/Hash%20Table/Subarray_sum_equals_k.py)|
 |  1365 | [How many numbers smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [solution](/Hash%20Table/how_many_numbers_smaller_than_the_current_number.py)|
 
+#### Linked List
+|  Number | Problem |   Solution |
+| --- | --- | --- |
+|  1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [solution](/Hash%20Table/convert_binary_Number_in_linked_list_to_integer.py)|
+
 #### Math
 |  Number | Problem |   Solution |
 | --- | --- | --- |
 |  9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [solution](/Hash%20Table/palindrome.py)|
 
-### String
+#### String
 
 |  Number | Problem |   Solution |
 | --- | --- | --- |
 |  20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [solution](/String/valid-parentheses.py)|
+|  383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [solution](/String/ransom_note.py)|
