@@ -16,7 +16,8 @@
 #### Binary Search
 |  Number | Problem |   Solution |
 | --- | --- | --- |
-|  278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](/Dynamic%20Programming/first_bad_version.py)|
+|  278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](/Binary%20Search/first_bad_version.py)|
+|  540 | [Single element in sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [solution](/Binary%20Search/single_element_in_sorted_array.py)|
 
 #### Depth First Search
 |  Number | Problem |   Solution |
@@ -56,7 +57,7 @@
 #### Math
 |  Number | Problem |   Solution |
 | --- | --- | --- |
-|  9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [solution](/Hash%20Table/palindrome.py)|
+|  9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [solution](/Math/palindrome.py)|
 
 #### String
 
@@ -68,5 +69,5 @@
 #### Two Pointers
 |  Number | Problem |   Solution |
 | --- | --- | --- |
-|  11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/) | [solution](/String/container_with_most_water.py)|
-|  42 | [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/) | [solution](/String/trapping_rain_water.py)|
+|  11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/) | [solution](/Two%20Pointers/container_with_most_water.py)|
+|  42 | [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/) | [solution](/Two%20Pointers/trapping_rain_water.py)|
