@@ -13,5 +13,4 @@ class Solution:
         while temp:
             rev = rev * 10 + temp % 10
             temp = int(temp/10)
-            print(temp,rev)
         return rev == x

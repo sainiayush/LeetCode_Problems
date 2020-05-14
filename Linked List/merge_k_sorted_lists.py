@@ -1,12 +1,12 @@
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
 class Solution:
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
 
-        if not lists:
+       if not lists:
             return
         if len(lists) == 1:
             return lists[0]
@@ -24,16 +24,15 @@ class Solution:
 
         while left and right:
             if left.val<= right.val:
-                pointer.next = ListNode(left.val)
+                pointer.next = left
                 left = left.next
             else:
-                pointer.next = ListNode(right.val)
+                pointer.next = right
                 right = right.next
             pointer = pointer.next
 
-        if left:
-            pointer.next = left
-        if right:
-            pointer.next = right
+        if left or right:
+            pointer.next = left or right
 
         return merged_list.next
+        
