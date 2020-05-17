@@ -20,6 +20,7 @@
 #### Depth First Search
 |  Number | Problem |   Solution |
 | --- | --- | --- |
+|  200 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | [solution](/Depth%20First%Search/number_of_islands.py)|
 |  733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [solution](/Depth%20First%Search/flood_fill.py)|
 
 #### Design
@@ -47,6 +48,7 @@
 |  1 | [Two sum](https://leetcode.com/problems/two-sum/) | [solution](/Hash%20Table/Two_sum.py)|
 |  3 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](/Hash%20Table/Longest_substring_without_repeating_characters.py)|
 |  242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [solution](/Hash%20Table/Valid_Anagram.py)|
+|  438 | [Find all anagrams in string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [solution](/Hash%20Table/find_all_anagrams_in_string.py)|
 |  560 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | [solution](/Hash%20Table/Subarray_sum_equals_k.py)|
 |  1365 | [How many numbers smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [solution](/Hash%20Table/how_many_numbers_smaller_than_the_current_number.py)|
 
