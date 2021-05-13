@@ -1,15 +1,17 @@
 ## LeetCode problems solution in python
 
 
-|  Number | Problem |   Solution | 
-| --- | --- | --- |
-|  1 | [Two sum](https://leetcode.com/problems/two-sum/) | [solution](/Solutions/Two_sum.py)|
+|  Number | Problem |   Solution | Tags |
+| --- | --- | --- | --- |
+|  1 | [Two sum](https://leetcode.com/problems/two-sum/) | [solution](/Solutions/Two_sum.py)| Array, Hash Table |
 |  3 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](/Solutions/Longest_substring_without_repeating_characters.py)|
 |  9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [solution](/Solutions/palindrome.py)|
 |  11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/) | [solution](/Solutions/container_with_most_water.py)|
 |  20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [solution](/Solutions/valid-parentheses.py)|
 |  21 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [solution](/Solutions/merge_two_sorted_list.py)|
 |  23 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [solution](/Solutions/merge_k_sorted_lists.py)|
+|  26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [solution](/Solutions/merge_k_sorted_lists.py)| Array, Two Pointers |
+|  27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [solution](/Solutions/remove_element.py)| Array, Two Pointers |
 |  42 | [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/) | [solution](/Solutions/trapping_rain_water.py)|
 |  48 | [Rotate image](https://leetcode.com/problems/rotate-image/) | [solution](/Solutions/rotate_image.py)|
 |  53 | [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](/Solutions/naximum_subarray.py)|
@@ -19,10 +21,11 @@
 |  102 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [solution](/Solutions/binary_tree_level_order_traversal.py)|
 |  104 | [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [solution](/Solutions/maximum_depth_of_binary_tree.py)|
 |  111 | [Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [solution](/Solutions/minimum_depth_of_binary_tree.py)|
-|  121 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [solution](/Solutions/Best_time_to_buy_and_sell_stock.py)|
+|  121 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [solution](/Solutions/Best_time_to_buy_and_sell_stock.py)| Array, Dynamic Programming |
 |  141 | [Linked list cycle](https://leetcode.com/problems/linked-list-cycle/) | [solution](/Solutions/linked_list_cycle.py)|
 |  155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [solution](/Solutions/min_stack.py)|
 |  160 | [Intersection of two linked list](https://leetcode.com/problems/intersection-of-two-linked-list/) | [solution](/Solutions/intersection_of_two_linked_list.py)|
+|  167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [solution](/Solutions/Two_Sum_Input_array_sorted.py)| Array, Two Pointers, Binary Search |
 |  189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [solution](/Solutions/Rotate_Array.py)|
 |  200 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | [solution](/Solutions/number_of_islands.py)|
 |  203 | [Remove Linked List elements](https://leetcode.com/problems/remove-linked-list-elements/) | [solution](/Solutions/remove_linked_list_elements.py)|
