@@ -21,6 +21,8 @@
 |  102 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [solution](/Solutions/binary_tree_level_order_traversal.py)|
 |  104 | [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [solution](/Solutions/maximum_depth_of_binary_tree.py)|
 |  111 | [Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [solution](/Solutions/minimum_depth_of_binary_tree.py)|
+|  118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [solution](/Solutions/pascal_triangle.py)| Array |
+|  119 | [Pascal's Triangle 2](https://leetcode.com/problems/pascals-triangle-ii/) | [solution](/Solutions/pascal_triangle_2.py)| Array |
 |  121 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [solution](/Solutions/Best_time_to_buy_and_sell_stock.py)| Array, Dynamic Programming |
 |  141 | [Linked list cycle](https://leetcode.com/problems/linked-list-cycle/) | [solution](/Solutions/linked_list_cycle.py)|
 |  155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [solution](/Solutions/min_stack.py)|
