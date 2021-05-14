@@ -7,7 +7,7 @@
 |  3 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](/Solutions/Longest_substring_without_repeating_characters.py)|
 |  9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [solution](/Solutions/palindrome.py)|
 |  11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/) | [solution](/Solutions/container_with_most_water.py)|
-|  20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [solution](/Solutions/valid-parentheses.py)|
+|  20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [solution](/Solutions/valid_parentheses.py)|
 |  21 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [solution](/Solutions/merge_two_sorted_list.py)|
 |  23 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [solution](/Solutions/merge_k_sorted_lists.py)|
 |  26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [solution](/Solutions/merge_k_sorted_lists.py)| Array, Two Pointers |
