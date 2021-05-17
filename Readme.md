@@ -53,6 +53,7 @@
 |  937 | [Reorder data in log files](https://leetcode.com/problems/reorder-data-in-log-files/) | [solution](/Solutions/reorder_data_in_log_files.py)|
 |  993 | [Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [solution](/Solutions/cousins_in_binary_tree.py)|
 |  997 | [Find the town judge](https://leetcode.com/problems/find-the-town-judge/) | [solution](/Solutions/find_the_town_judge.py)|
+|  1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [solution](/Solutions/duplicate_zeros.py)| Array |
 |  1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [solution](/Solutions/Longest_Common_Subsequence.py)|
 |  1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [solution](/Solutions/convert_binary_Number_in_linked_list_to_integer.py)|
 |  1351 | [Count negative numbers in sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [solution](/Solutions/count_negative_numbers_in_sorted_matrix.py)|
