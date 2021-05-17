@@ -56,6 +56,7 @@
 |  1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [solution](/Solutions/duplicate_zeros.py)| Array |
 |  1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [solution](/Solutions/Longest_Common_Subsequence.py)|
 |  1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [solution](/Solutions/convert_binary_Number_in_linked_list_to_integer.py)|
+|  1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [solution](/Solutions/replace-elements-with-greatest-element-on-right-side.py)| Array |
 |  1351 | [Count negative numbers in sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [solution](/Solutions/count_negative_numbers_in_sorted_matrix.py)|
 |  1365 | [How many numbers smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [solution](/Solutions/how_many_numbers_smaller_than_the_current_number.py)|
 
