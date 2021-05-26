@@ -16,7 +16,9 @@
 |  48 | [Rotate image](https://leetcode.com/problems/rotate-image/) | [solution](/Solutions/rotate_image.py)|
 |  53 | [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](/Solutions/naximum_subarray.py)|
 |  55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [solution](/Solutions/jump_game.py)|
+|  69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [solution](/Solutions/sqrtx.py)| Binary Search |
 |  83 | [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicated-from-sorted-list/) | [solution](/Solutions/remove_duplicates_from_sorted_list.py)|
+|  88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [solution](/Solutions/merge-sorted-array.py)| Array, Two Pointers |
 |  100 | [Same tree](https://leetcode.com/problems/same-tree/) | [solution](/Solutions/same_tree.py)|
 |  102 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [solution](/Solutions/binary_tree_level_order_traversal.py)|
 |  104 | [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [solution](/Solutions/maximum_depth_of_binary_tree.py)|
@@ -36,11 +38,13 @@
 |  234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [solution](/Solutions/palindrome_linked_list.py)|
 |  238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](/Solutions/Product_of_Array_Except_Self.py)|
 |  242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [solution](/Solutions/Valid_Anagram.py)|
-|  278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](/Solutions/first_bad_version.py)|
+|  278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](/Solutions/first_bad_version.py)| Binary Search |
+|  283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [solution](/Solutions/move-zeroes.py)| Array, Two Pointers |
 |  322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [solution](/Solutions/Coin_Change.py)|
 |  328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [solution](/Solutions/odd_even_linked_list.py)|
-|  349 | [Intersection of Two arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [solution](/Solutions/intersection_of_two_arrays.py)|
+|  349 | [Intersection of Two arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [solution](/Solutions/intersection_of_two_arrays.py)| Binary Search |
 |  383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [solution](/Solutions/ransom_note.py)|
+|  392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [solution](/Solutions/is-subsequence.py)| Two Pointers |
 |  402 | [Remove k digits](https://leetcode.com/problems/remove-k-digits/) | [solution](/Solutions/remove_k_digits.py)|
 |  438 | [Find all anagrams in string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [solution](/Solutions/find_all_anagrams_in_string.py)|
 |  540 | [Single element in sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [solution](/Solutions/single_element_in_sorted_array.py)|
@@ -49,10 +53,14 @@
 |  733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [solution](/Solutions/flood_fill.py)|
 |  819 | [Most common word](https://leetcode.com/problems/most-common-word/) | [solution](/Solutions/most_common_word.py)|
 |  876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [solution](/Solutions/middle_of_the_linked_list.py)|
+|  905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [solution](/Solutions/sort-array-by-parity.py)| Array |
 |  918 | [Maximum sum circular subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [solution](/Solutions/maximum_sum_circular_subarray.py)|
 |  937 | [Reorder data in log files](https://leetcode.com/problems/reorder-data-in-log-files/) | [solution](/Solutions/reorder_data_in_log_files.py)|
+|  941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [solution](/Solutions//valid-mountain-array.py)| Array |
+|  977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [solution](/Solutions/squares-of-a-sorted-array.py)| Array, Two Pointers |
 |  993 | [Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [solution](/Solutions/cousins_in_binary_tree.py)|
 |  997 | [Find the town judge](https://leetcode.com/problems/find-the-town-judge/) | [solution](/Solutions/find_the_town_judge.py)|
+|  1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [solution](/Solutions/height-checker.py)| Array |
 |  1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [solution](/Solutions/duplicate_zeros.py)| Array |
 |  1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [solution](/Solutions/Longest_Common_Subsequence.py)|
 |  1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [solution](/Solutions/convert_binary_Number_in_linked_list_to_integer.py)|
