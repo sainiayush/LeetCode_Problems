@@ -17,6 +17,7 @@
 |  53 | [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](/Solutions/naximum_subarray.py)|
 |  55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [solution](/Solutions/jump_game.py)|
 |  69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [solution](/Solutions/sqrtx.py)| Binary Search |
+|  74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [solution](/Solutions/search-a-2d-matrix.py)| ArraY, Binary Search |
 |  83 | [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicated-from-sorted-list/) | [solution](/Solutions/remove_duplicates_from_sorted_list.py)|
 |  88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [solution](/Solutions/merge-sorted-array.py)| Array, Two Pointers |
 |  100 | [Same tree](https://leetcode.com/problems/same-tree/) | [solution](/Solutions/same_tree.py)|
@@ -37,6 +38,7 @@
 |  230 | [Kth smallest element in a bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [solution](/Solutions/kth_smalles_element_in_bst.py)|
 |  234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [solution](/Solutions/palindrome_linked_list.py)|
 |  238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](/Solutions/Product_of_Array_Except_Self.py)|
+|  240 | [Search a 2D Matrix 2](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [solution](/Solutions/search-a-2d-matrix-ii.py)| Binary Search, Divide and Conquer|
 |  242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [solution](/Solutions/Valid_Anagram.py)|
 |  278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](/Solutions/first_bad_version.py)| Binary Search |
 |  283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [solution](/Solutions/move-zeroes.py)| Array, Two Pointers |
